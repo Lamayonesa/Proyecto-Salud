@@ -23,7 +23,6 @@ Desarrollar una aplicación que facilite la organización y el seguimiento de ru
 ## 5. Nombre del estudiante o integrantes del equipo
 
 * Andrés.
-* Oliver.
 
 ## 6. Estado inicial del proyecto
 
