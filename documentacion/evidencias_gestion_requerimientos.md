@@ -20,6 +20,6 @@ Rutinas de Buena Salud, desarrollado con C# y .NET MAUI.
 3. Creación de los issues #12 a #40 y uso de la etiqueta `historia-usuario`.
 4. Organización en el tablero existente, que contiene Backlog, Ready, In progress, In review y Done.
 5. Cambio de las 29 historias nuevas a Done por indicación del responsable del proyecto. La automatización «Item closed» establece ese estado cuando se cierra el issue como completado.
-6. Conservación de los estados anteriores: #11 en Backlog, #10 en In progress y #6 a #9 en Done.
+6. Verificación del estado observado en las capturas: #10 en In progress y #6 a #9 y #11 en Done. La columna Done contiene 35 elementos en total, incluida una tarea de README.
 
 El alcance de este informe es la gestión de los requerimientos. Los estados del tablero registran la clasificación solicitada por el responsable.
